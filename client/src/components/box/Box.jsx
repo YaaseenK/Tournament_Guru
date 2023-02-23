@@ -1,4 +1,5 @@
 import React from 'react'
+import './box.css'
 
 const Box = props => {
     const className = {
