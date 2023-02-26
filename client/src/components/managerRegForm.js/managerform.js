@@ -4,6 +4,8 @@ import React, { useState } from 'react';
 // Here we import a helper function that will check if the email is valid
 import { validateEmail } from '../../src/utils/helpers';
 
+
+   
 function EventForm() {
     // Create state variables for the fields in the form
     // We are also setting their initial values to an empty string
@@ -16,7 +18,7 @@ function EventForm() {
     const [participantCount, setParticipantCount] = useState('');
     const [prizePool, setPrizePool] = useState('');
     const [tournamentDate, setTournamentDate] = useState('');
-    const [selectModerator, setselectModarator] = useState('');
+    const [selectModerator, setselectModerator] = useState('');
 
     const [errorMessage, setErrorMessage] = useState('');
 
