@@ -1,3 +1,6 @@
-const Profile = require('./Profile');
+const event = require('./event');
+const Player = require('./Player');
+const Manager = require('./Manager')
 
-module.exports = { Profile };
+
+module.exports =  { Event, Player, Manager };

@@ -1,0 +1,16 @@
+[
+    {
+        "eventName": "Smash Bros Melee",
+        "game": "Super Smash Bros Melee",
+        "date": "02/01/2023",
+        "description": "Tournament for SSBM",
+        "prizepool": 250
+    },
+    {
+        "eventName": "Smash Bros Melee 2.0",
+        "game": "Super Smash Bros Melee 2",
+        "date": "02/02/2023",
+        "description": "Tournament for SSBM 2.0",
+        "prizepool": 300
+    }
+]
